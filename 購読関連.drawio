@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-16T06:56:06.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="evUgkMGFInuxjetXFVbU" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T07:00:53.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="41K7Ym68S9DCp4TktBHN" version="12.4.2" type="github" pages="1">
   <diagram id="LtNvV_Q8aPqqT5u1wBzz" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             <mxPoint x="530" y="660" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-156" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-129">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-156" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-129">
           <mxGeometry x="-0.4704" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -33,7 +33,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-131" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-22" target="V_cz3rUaaJLSFiW3fjFY-44">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-157" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-131">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-157" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-131">
           <mxGeometry x="-0.3291" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -44,7 +44,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-123" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-43" target="V_cz3rUaaJLSFiW3fjFY-22">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-161" value="Create/Update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-123">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-161" value="Create/Update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#660000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-123">
           <mxGeometry x="-0.1386" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -52,7 +52,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-43" target="V_cz3rUaaJLSFiW3fjFY-80">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-162" value="Create/Update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-124">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-162" value="&lt;font color=&quot;#660000&quot;&gt;Create/Update&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-124">
           <mxGeometry x="0.4507" y="-2" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -63,12 +63,12 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-44" target="V_cz3rUaaJLSFiW3fjFY-80">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-160" value="Create/Update" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-130">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-160" value="&lt;font color=&quot;#660000&quot;&gt;Create/Update&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-130">
           <mxGeometry x="-0.1412" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-44" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;新着更新バッチ&lt;br&gt;(予約記事公開分)&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/FILE---BATCH.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-44" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;新着更新バッチ&lt;br&gt;(予約記事公開分)&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/FILE---BATCH.png" vertex="1" parent="1">
           <mxGeometry x="950" y="204" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-84" target="V_cz3rUaaJLSFiW3fjFY-86">
@@ -85,7 +85,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-117" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-79" target="V_cz3rUaaJLSFiW3fjFY-115">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-152" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-117">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-152" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-117">
           <mxGeometry x="0.1954" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -93,7 +93,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-79" target="V_cz3rUaaJLSFiW3fjFY-114">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-151" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-125">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-151" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-125">
           <mxGeometry x="0.1701" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" as="offset"/>
           </mxGeometry>
@@ -101,7 +101,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-79" target="V_cz3rUaaJLSFiW3fjFY-84">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-155" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-128">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-155" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-128">
           <mxGeometry x="-0.1004" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -114,7 +114,7 @@
             <mxPoint x="750" y="210" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-163" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-127">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-163" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-127">
           <mxGeometry x="-0.3966" y="1" relative="1" as="geometry">
             <mxPoint x="-5.95" y="-4.48" as="offset"/>
           </mxGeometry>
@@ -141,7 +141,7 @@
             <mxPoint x="280" y="490" as="sourcePoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-169" value="POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-98">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-169" value="&lt;font color=&quot;#660000&quot;&gt;POST&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-98">
           <mxGeometry x="0.1968" y="-1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -149,7 +149,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-83" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;編集面&lt;br&gt;購読管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="460" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-84" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;購読通知バッチ&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/FILE---BATCH.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-84" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;購読通知バッチ&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/FILE---BATCH.png" vertex="1" parent="1">
           <mxGeometry x="460" y="630" width="60" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.037;exitY=0.875;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-83" target="V_cz3rUaaJLSFiW3fjFY-86">
@@ -163,10 +163,10 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-86" value="閲覧者" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-128.png" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-88" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;購読解除&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-88" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;購読解除&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="410" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-97" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;購読ブログ一覧取得&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-97" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;購読ブログ一覧取得&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="496" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-88" target="V_cz3rUaaJLSFiW3fjFY-79">
@@ -175,7 +175,7 @@
             <mxPoint x="345" y="527.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-159" value="Delete?&lt;br&gt;Update?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-99">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-159" value="&lt;font color=&quot;#660000&quot;&gt;Delete?&lt;br&gt;Update?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-99">
           <mxGeometry x="-0.1213" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -186,7 +186,7 @@
             <mxPoint x="290" y="464.7368421052631" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-166" value="GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-100">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-166" value="&lt;font color=&quot;#0000cc&quot;&gt;GET&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-100">
           <mxGeometry x="-0.2134" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -197,12 +197,12 @@
             <mxPoint x="395" y="457.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-154" value="Read" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-101">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-154" value="&lt;font color=&quot;#0000cc&quot;&gt;Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-101">
           <mxGeometry x="0.1099" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-102" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;購読開始&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-102" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;購読開始&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-104" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-82" target="V_cz3rUaaJLSFiW3fjFY-102">
@@ -211,7 +211,7 @@
             <mxPoint x="345" y="457.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-167" value="POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-104">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-167" value="&lt;font color=&quot;#660000&quot;&gt;POST&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-104">
           <mxGeometry x="0.1591" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -222,7 +222,7 @@
             <mxPoint x="345" y="355" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-168" value="POST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-105">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-168" value="&lt;font color=&quot;#660000&quot;&gt;POST&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-105">
           <mxGeometry x="0.1481" y="2" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -233,7 +233,7 @@
             <mxPoint x="640" y="577.55" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-158" value="Create" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-106">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-158" value="&lt;font color=&quot;#660000&quot;&gt;Create&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#CC0000;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-106">
           <mxGeometry x="-0.1143" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
@@ -271,18 +271,18 @@
             <mxPoint x="32.19" y="-8.09" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-114" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;フォロー・購読&lt;br&gt;新着記事一覧取得&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-114" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;フォロー・購読&lt;br&gt;新着記事一覧取得&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-115" target="V_cz3rUaaJLSFiW3fjFY-82">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-165" value="GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-116">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-165" value="&lt;font color=&quot;#0000cc&quot;&gt;GET&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-116">
           <mxGeometry x="-0.1947" y="1" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-115" value="&lt;b style=&quot;background-color: rgb(225 , 213 , 231)&quot;&gt;購読状況取得&lt;br&gt;(単記事表示に必要な&lt;br&gt;情報を総取得)&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-115" value="&lt;b style=&quot;background-color: rgb(255 , 244 , 195)&quot;&gt;&lt;font color=&quot;#333300&quot;&gt;購読状況取得&lt;br&gt;(単記事表示に必要な&lt;br&gt;情報を総取得)&lt;/font&gt;&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-114" target="V_cz3rUaaJLSFiW3fjFY-81">
@@ -291,7 +291,7 @@
             <mxPoint x="290" y="342.7027027027027" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-164" value="GET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-119">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-164" value="&lt;font color=&quot;#0000cc&quot;&gt;GET&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;fontColor=#0000FF;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-119">
           <mxGeometry x="-0.1338" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
