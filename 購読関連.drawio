@@ -1,17 +1,17 @@
-<mxfile host="www.draw.io" modified="2019-12-16T05:18:50.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="VQDmfarSy_RIcY9-XO4y" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-16T06:36:53.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="513fSlYTs4bG9H6dEPym" version="12.4.2" type="github" pages="1">
   <diagram id="LtNvV_Q8aPqqT5u1wBzz" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-81" target="V_cz3rUaaJLSFiW3fjFY-86">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-81" target="V_cz3rUaaJLSFiW3fjFY-86">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="210" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-78" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読ブログ&lt;/span&gt;&lt;br style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;新着一覧&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-47">
           <mxGeometry x="-0.6125" y="1" relative="1" as="geometry">
-            <mxPoint x="-81" y="53" as="offset"/>
+            <mxPoint x="-89" y="53" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-4" target="V_cz3rUaaJLSFiW3fjFY-43">
@@ -83,12 +83,12 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-82" value="&lt;span style=&quot;white-space: nowrap&quot;&gt;ブログ面&lt;br&gt;単記事&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="270" width="80" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.025;exitY=0.113;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-83" target="V_cz3rUaaJLSFiW3fjFY-86">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.025;entryY=0.113;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-86" target="V_cz3rUaaJLSFiW3fjFY-83">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-95" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読一覧&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-94">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-95" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読解除&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-94">
           <mxGeometry x="-0.5091" y="2" relative="1" as="geometry">
-            <mxPoint x="-25.08" y="-7.04" as="offset"/>
+            <mxPoint x="51.730000000000004" y="12.240000000000002" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-83" target="V_cz3rUaaJLSFiW3fjFY-88">
@@ -102,12 +102,12 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-84" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;通知バッチ&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/ecqlipse2/FILE---BATCH.png" vertex="1" parent="1">
           <mxGeometry x="460" y="630" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.037;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-86" target="V_cz3rUaaJLSFiW3fjFY-83">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.037;exitY=0.875;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-83" target="V_cz3rUaaJLSFiW3fjFY-86">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-91" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読解除&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-89">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-91" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読一覧&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="V_cz3rUaaJLSFiW3fjFY-89">
           <mxGeometry x="-0.2213" y="2" relative="1" as="geometry">
-            <mxPoint x="17.15" y="12.23" as="offset"/>
+            <mxPoint x="1.1499999999999986" y="-1.2300000000000004" as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-86" value="閲覧者" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/people-80/96/Picture1-128.png" vertex="1" parent="1">
@@ -117,7 +117,7 @@
           <mxGeometry x="460" y="410" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-97" value="購読ブログ一覧取得" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
-          <mxGeometry x="460" y="500" width="50" height="50" as="geometry"/>
+          <mxGeometry x="460" y="496" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-88" target="V_cz3rUaaJLSFiW3fjFY-79">
           <mxGeometry relative="1" as="geometry">
@@ -125,16 +125,16 @@
             <mxPoint x="345" y="527.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.013;exitY=0.663;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-83" target="V_cz3rUaaJLSFiW3fjFY-97">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-97" target="V_cz3rUaaJLSFiW3fjFY-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="464.7368421052631" as="sourcePoint"/>
-            <mxPoint x="345" y="457.5" as="targetPoint"/>
+            <mxPoint x="345" y="457.5" as="sourcePoint"/>
+            <mxPoint x="290" y="464.7368421052631" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-97" target="V_cz3rUaaJLSFiW3fjFY-79">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-79" target="V_cz3rUaaJLSFiW3fjFY-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="395" y="457.5" as="sourcePoint"/>
-            <mxPoint x="630" y="578" as="targetPoint"/>
+            <mxPoint x="630" y="578" as="sourcePoint"/>
+            <mxPoint x="395" y="457.5" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-102" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読開始&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
@@ -191,7 +191,7 @@
             <mxPoint x="32.19" y="-8.09" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-114" value="フォロー新着記事&lt;br&gt;一覧取得" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-114" value="フォロー・購読&lt;br&gt;新着記事一覧取得" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="50" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-116" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-115" target="V_cz3rUaaJLSFiW3fjFY-82">
@@ -200,7 +200,7 @@
         <mxCell id="V_cz3rUaaJLSFiW3fjFY-115" value="&lt;span style=&quot;background-color: rgb(248 , 249 , 250)&quot;&gt;購読状況取得&lt;br&gt;(単記事表示に必要な&lt;br&gt;情報を総取得)&lt;br&gt;&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/196_Api_app_coding_developer_software_app_development-128.png" vertex="1" parent="1">
           <mxGeometry x="460" y="190" width="50" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="V_cz3rUaaJLSFiW3fjFY-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-114" target="V_cz3rUaaJLSFiW3fjFY-81">
+        <mxCell id="V_cz3rUaaJLSFiW3fjFY-119" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_cz3rUaaJLSFiW3fjFY-114" target="V_cz3rUaaJLSFiW3fjFY-81">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="398" y="269" as="sourcePoint"/>
             <mxPoint x="290" y="342.7027027027027" as="targetPoint"/>
